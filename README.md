@@ -5,10 +5,16 @@ Now im develop new tools the name is  Brutal
 
 # Brutal
 
+![screenshot from 2016-11-07 17-28-13](https://cloud.githubusercontent.com/assets/17976841/20054455/a43d8358-a50f-11e6-90a6-c967a9d3a43f.png)
+
 
 So what Brutal ?
 
 Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device
+
+## Screenshoot
+
+
 
 ## The Goal 
 
@@ -33,7 +39,7 @@ Brutal is a toolkit to quickly create various payload,powershell attack , virus 
 
 The following hardware has been tested and is known to work.
 
-- Teensy 3.x
+- Teensy 3.x 
 
 - Usb Cable
 
