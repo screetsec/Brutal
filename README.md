@@ -44,6 +44,43 @@ The following hardware has been tested and is known to work.
 - Usb Cable
 
 
+## :scroll: Changelog
+Be sure to check out the [Changelog] and Read CHANGELOG.md
+
+
+## Getting Started
+1. ```Copy and paste the lib folder inside your Arduino\libraries```
+1. ```git clone https://github.com/Screetsec/Brutal.git```
+2. ```cd Brutal```
+3. ```chmod +x Brutal.sh ```
+3. ```sudo ./Brutal.sh or sudo su ./Brutal.sh ```
+
+
+## Tutorial ?  or another tool ? 
+
+you can visit my channel  : https://www.youtube.com/channel/UCpK9IXzLMfVFp9NUfDzxFfw
+
+thefatrat , Backdoor Creator ( bypass av ) : https://github.com/Screetsec/TheFatRat
+
+## BUG ? 
+- Submit new issue 
+- Contact me 
+
+
+## :octocat: Credits
+
+- Thanks to allah and Screetsec [ Edo -maland- ] <Me> 
+- Dracos Linux from Scratch Indonesia ( Awesome Penetration os ), you can see in http://dracos-linux.org/ 
+- Offensive Security for the awesome OS ( http://www.offensive-security.com/ )
+- http://www.kali.org/"   
+- Jack Wilder admin in http://www.linuxsec.org
+- And another open sources tool in github
+- Uptodate new tools hacking visit http://www.kitploit.com
+
+## Disclaimer
+
+***Note: modifications, changes, or alterations to this sourcecode is acceptable, however,any public releases utilizing this code must be approved by writen this tool ( Edo -m- ).***
+
 
 
  
