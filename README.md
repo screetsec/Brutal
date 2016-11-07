@@ -21,13 +21,22 @@ Brutal is a toolkit to quickly create various payload,powershell attack , virus 
 
 ## Requirements
 
+- Arduino Software ( I used v1.6.7 )
 
+- TeensyDuino 
+
+- Linux udev rules 
+
+- https://github.com/Screetsec/Brutal/wiki Check this for install all requirements 
 
 ## Supported Hardware
 
+The following hardware has been tested and is known to work.
+
 - Teensy 3.x
 
-- Usb Connector 
+- Usb Cable
+
 
 
 
