@@ -19,5 +19,17 @@ To help breaking computer very fast and agile :p
 The Payloads Compatibility > target Windows machines only
 
 
+## Requirements
+
+
+
+## Supported Hardware
+
+- Teensy 3.x
+
+- Usb Connector 
+
+
+
  
 
