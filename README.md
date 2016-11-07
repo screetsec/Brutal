@@ -27,7 +27,7 @@ Brutal is a toolkit to quickly create various payload,powershell attack , virus 
 
 - Linux udev rules 
 
-- https://github.com/Screetsec/Brutal/wiki Check this for install all requirements 
+- How install all requirements ? [Visit This Wiki](https://github.com/Screetsec/Brutal/wiki/Install-Requirements)
 
 ## Supported Hardware
 
