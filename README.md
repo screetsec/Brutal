@@ -12,11 +12,11 @@ Brutal is a toolkit to quickly create various payload,powershell attack , virus 
 
 ## The Goal 
 
-generate  various payload and powershell attack without coding 
+- Generate  various payload and powershell attack without coding 
 
-To help breaking computer very fast and agile :p
+- To help breaking computer very fast and agile :p
 
-The Payloads Compatibility > target Windows machines only
+- The Payloads Compatibility > target Windows machines only
 
 
 ## Requirements
