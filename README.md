@@ -55,7 +55,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 
 ## Getting Started
-1. ```Copy and paste the lib folder inside your Arduino\libraries```
+1. ```Copy and paste the PensyLib folder inside your Arduino\libraries```
 1. ```git clone https://github.com/Screetsec/Brutal.git```
 2. ```cd Brutal```
 3. ```chmod +x Brutal.sh ```
