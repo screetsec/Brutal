@@ -18,7 +18,7 @@ Brutal is a toolkit to quickly create various payload,powershell attack , virus 
 
 ## Video 
 
-- Check this video https://www.youtube.com/watch?v=WaqY-pQpuV0&feature=youtu.be
+- Check this video https://www.youtube.com/watch?v=WaqY-pQpuV0
 
 - Do you want like a mr robot hacking scene when Angela moss plug usb into computer for get  credential information ? you can choose payload in brutal ( optional 2 or 3 )
 
@@ -55,7 +55,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 
 
 ## Getting Started
-1. ```Copy and paste the PensyLib folder inside your Arduino\libraries```
+1. ```Copy and paste the PaensyLib folder inside your Arduino\libraries```
 1. ```git clone https://github.com/Screetsec/Brutal.git```
 2. ```cd Brutal```
 3. ```chmod +x Brutal.sh ```
