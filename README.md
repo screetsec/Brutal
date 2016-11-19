@@ -65,6 +65,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 ## BUG ? 
 - Submit new issue 
 - Contact me 
+- Hey sup ? do you want ask about all my tools ? you can join me in telegram.me/offscreetsec
 
 
 ## :octocat: Credits
