@@ -167,7 +167,7 @@ echo "                                                      ";
 	echo -e $BlueF"	[$white"01"$BlueF]$cyan  Add an Admin User  "
 	echo -e $BlueF"	[$white"02"$BlueF]$cyan  Add a User and Enbale RDP  "
 	echo -e $BlueF"	[$white"03"$BlueF]$cyan  Add a User and Enable Telnet   "
-	echo -e $BlueF"	[$white"04"$BlueF]$cyan  Add a User and Enable RDP + Tenett  "
+	echo -e $BlueF"	[$white"04"$BlueF]$cyan  Add a User and Enable RDP + Telnet  "
 	echo -e $BlueF"	[$white"05"$BlueF]$cyan  Add a User and Enable Ps Remoting "
 	echo -e $BlueF"	[$white"06"$BlueF]$cyan  Bypass Admin Login Screen "
 	echo -e $BlueF"	[$white"07"$BlueF]$cyan  Back  "
