@@ -11,6 +11,11 @@ So what Brutal ?
 
 Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device
 
+### Donate
+- If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
+- [![Donation](https://img.shields.io/badge/bitcoin-donate-yellow.svg)](https://blockchain.info/id/address/1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS)
+
+
 ## Screenshoot
 <img src="https://cloud.githubusercontent.com/assets/17976841/20054499/bc2d91ec-a50f-11e6-8a2a-eb9aa029e40b.png" width="32%"></img> 
 <img src="https://cloud.githubusercontent.com/assets/17976841/20054497/bc2affe0-a50f-11e6-99cb-81a1de0df249.png" width="32%"></img> 
@@ -66,6 +71,14 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 - Submit new issue 
 - Contact me 
 - Hey sup ? do you want ask about all my tools ? you can join me in telegram.me/offscreetsec
+
+## Donations 
+
+- Donation: Send to [bitcoin](https://blockchain.info/id/address/1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS)
+
+- Addres Bitcoin : 1NuNTXo7Aato7XguFkvwYnTAFV2immXmjS
+
+- <img src="https://cloud.githubusercontent.com/assets/17976841/25007109/75380fa6-2089-11e7-8a4a-4a8ae9c06e24.png" width="30%"></img>
 
 
 ## :octocat: Credits
