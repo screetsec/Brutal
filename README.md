@@ -3,13 +3,17 @@
 Teensy like a rubber ducky , why im choose teensy ? because the price very cheap for me . t’s extremely useful for executing scripts on a target machine without the need for human-to-keyboard interaction ( HID -ATTACK ) .When you insert the device, it will be detected as a keyboard, and using the microprocessor and onboard flash memory storage, you can send a very fast set of keystrokes to the target’s machine and completely compromise it, regardless of autorun. I’ve used it in my security testing to run recon or enumeration scripts, execute reverse shells, exploit local DLL hijack/privilege escalation vulnerabilities, and get all password . 
 Now im develop new tools the name is  Brutal 
 
-# Brutal - v1.0 Codename : Reaper
+# Brutal
+
+Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device
+
+[![Version](https://img.shields.io/badge/Brutal-1.0.0-brightgreen.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Codename-Reaper-red.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
 
 <img src="https://cloud.githubusercontent.com/assets/17976841/20054455/a43d8358-a50f-11e6-90a6-c967a9d3a43f.png" width="60%"></img> 
 
-So what Brutal ?
-
-Brutal is a toolkit to quickly create various payload,powershell attack , virus attack and launch listener for a Human Interface Device
 
 ### Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
