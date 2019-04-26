@@ -7,7 +7,7 @@
 #                       Welcome and dont disclaimer
 #                     Brutal Author By Edo -maland-
 #         
-#       contact me in screetsec@gmail.com or screetsec@dracos-linux.org
+#       contact me in screetsec@dracos-linux.org
 #          OS Penetration From Indonesia : https://dracos-linux.org/
 #============================================================================================================
 
