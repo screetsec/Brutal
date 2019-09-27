@@ -130,6 +130,9 @@ codename='Reaper'
 version='1.0'
 ###################################################
 
+# Check
+# apt-get install zenity
+command -v zenity > /dev/null 2>&1 || { echo "Error: require zenity but it's is not installed. Aborting." >&2; exit 1; }
 
 ###################################################
 # another temp
