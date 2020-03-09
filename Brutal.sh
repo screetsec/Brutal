@@ -168,7 +168,7 @@ echo "   |_|   |_||__| |__||_|  |__||__| |__||_______||_______|";
 echo "                                                      ";
 echo "                                                      ";
 	echo -e $BlueF"	[$white"01"$BlueF]$cyan  Add an Admin User  "
-	echo -e $BlueF"	[$white"02"$BlueF]$cyan  Add a User and Enbale RDP  "
+	echo -e $BlueF"	[$white"02"$BlueF]$cyan  Add a User and Enable RDP  "
 	echo -e $BlueF"	[$white"03"$BlueF]$cyan  Add a User and Enable Telnet   "
 	echo -e $BlueF"	[$white"04"$BlueF]$cyan  Add a User and Enable RDP + Telnet  "
 	echo -e $BlueF"	[$white"05"$BlueF]$cyan  Add a User and Enable Ps Remoting "
